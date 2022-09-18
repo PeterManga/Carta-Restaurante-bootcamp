@@ -1,0 +1,51 @@
+
+.container-fluid {
+    background-color: #4D346F;
+
+    
+}
+.container{
+    /* background-color:#4D346F; */
+}
+
+/* .colorFila1 .col{
+    background-color: aqua;
+}
+
+.colorFila2 .col{
+    background-color: #4D346F;
+}
+
+.colorFila4 .col{
+    background-color: pink;
+} */
+.row{
+    background-color:red;
+    justify-content: center;
+    text-align: center;
+}
+.col{
+    background-color: blue;
+}
+.col-12{
+    background-color: purple;
+    border: 1px solid black;
+    height: 45e,;
+}
+.col-6{
+    background-color: pink;
+    border: solid black;
+    /* height: 35em; */
+}
+.col-3{
+    background-color: gold;
+    border: 1px solid black;
+
+}
+
+.portada{
+    position: relative;
+    width: 46.5em;
+    height: 50em;
+}
+

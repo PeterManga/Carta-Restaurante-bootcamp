@@ -1,0 +1,104 @@
+
+.container-fluid {
+    /* background-color: #4D346F; */
+    border-radius: 20%;
+    border-style: none;
+
+
+
+    
+}
+/* .container{
+    background-color:#4D346F;
+} */
+
+/* .colorFila1 .col{
+    background-color: aqua;
+}
+
+.colorFila2 .col{
+    background-color: #4D346F;
+}
+
+.colorFila4 .col{
+    background-color: pink;
+} */
+.row{
+    /* background-color:red; */
+    justify-content: center;
+    text-align: center;
+}
+.col{
+    /* background-color: blue; */
+}
+.col-12{
+    /* background-color: blueviolet; */
+    border: 1px solid black;
+    border-style: none;
+
+}
+.col-6{
+    background-color: grey;
+    border: 1px  solid black;
+    border-style: none;
+    
+}
+.col-3{
+    background-color: #F0EFD9  ;
+    border: 1px solid black;
+    border-style: none;
+
+
+}
+.menu{
+    background-color: white;
+    border: 1px solid black;
+    height: 15em;
+}
+.abajo{
+    background-color: white;
+    border: 1px solid black;
+    height: 5em;
+    
+}
+
+
+/* .imagen{
+    background-image: url("portada2.jpg");
+} */
+.padre{
+    align-items: center;
+    align-content: center;
+    /* border: 1px black solid; */
+    border-radius: 10%;
+}
+.con1{
+    height: 45em;
+    border-top-left-radius: 20%;
+    border-bottom-left-radius: 20%;
+}
+.con2{
+    height: 45em;
+}
+.con3{
+    height:45em ;
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+
+}
+.cabecera{
+    /* background-color: blueviolet; */
+    border: 1px solid black;
+    text-align: center;
+    border-style: none;
+
+
+
+}
+.p2{
+    background-color:#F0EFD9 ;
+    border: 1px solid black;
+    border-radius: 30%;
+    border-style: hidden;
+    height: 4em;
+}
